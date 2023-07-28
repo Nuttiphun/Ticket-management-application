@@ -1,0 +1,7 @@
+.navbar-color {
+    background: linear-gradient(to right, #98A8F8, #87A2FB);
+}
+
+.navbar-shadow {
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+}

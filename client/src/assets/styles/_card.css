@@ -1,0 +1,20 @@
+/* styles.css */
+.card-header {
+  display: flex;
+  align-items: center;
+}
+
+.card-header-text {
+  flex-grow: 1;
+  word-break: break-all;
+}
+
+.card-header-icon {
+  flex-shrink: 0;
+}
+
+.card-shadow {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+
