@@ -7,7 +7,7 @@ import EditTicket from './components/Edit/editticket.component';
 function App() {
   return (
     <Routes>
-      <Route path="/home" element={<Home/>} />
+      <Route path="/" element={<Home/>} />
       <Route path="/create" element={<CreateTicket/>} />
       <Route path="/edit" element={<EditTicket/>} />
     </Routes>
