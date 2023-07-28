@@ -16,5 +16,5 @@ npm i
 npm run start
 ```
 
-# databse
+# database
 My sql database
